@@ -1,0 +1,7 @@
+Eight-Queens-Problem is a famous puzzle having eight columns and same number of rows that has one basic rule:
+
+" The user has to place eight queens in such a manner that no two queens lie in the same row, column, diagonal."
+
+I have implemented this code using JAVA (Frame, Dialog, ActionListener classes primarily) and have also implemented thread functionality(for setting up the time-limit which is2 minutes(120,000 ms) here).
+
+Requires you to install JAVA obviously...
