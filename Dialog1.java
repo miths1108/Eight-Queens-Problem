@@ -2,8 +2,8 @@ import java.awt.*;
 import java.awt.event.*;
 class Dialog1 extends Dialog implements ActionListener{ 
 	Button b;
-	eightqueens queen;
-	Dialog1(eightqueens parent,String title,boolean result){
+	EightQueens queen;
+	Dialog1(EightQueens parent,String title,boolean result){
 		super(parent,title,false);
 		queen=parent;
 		Label l1=new Label("sorry time up!!GAME OVER");   
